@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1_CYBER_LEJ.PcbDoc   12.01.2024  15:37:00
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB1_CYBER_LEJ.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             12        PTH        16.42mm (0.65inch)
+T2      0.3mm (12mil)                                             Round             48        PTH        521.60mm (20.54inch)
+T3      0.75mm (30mil)                                            Round             3         PTH        8.67mm (0.34inch)
+T4      1.02mm (40mil)                                            Round             6         PTH        61.16mm (2.41inch)
+T5      1.1mm (43mil)                                             Round             66        PTH        395.55mm (15.57inch)
+T6      1.4mm (55mil)                                             Round             24        PTH        198.92mm (7.83inch)
+T7      3mm (118mil)                                              Round             8         PTH        276.64mm (10.89inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              167
+
+Total Processing Time (hh:mm:ss) : 00:00:00

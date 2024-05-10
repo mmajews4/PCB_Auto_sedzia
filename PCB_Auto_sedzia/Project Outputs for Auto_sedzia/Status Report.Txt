@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_CYBER_LEJ.PrjPcb]
+   Generated File[PCB1_CYBER_LEJ.TXT]
+   Generated File[PCB1_CYBER_LEJ.LDP]
+   Generated File[PCB1_CYBER_LEJ.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:37:00 On 12.01.2024
